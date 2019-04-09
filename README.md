@@ -38,3 +38,4 @@ Other_Sales - Sales in the rest of the world (in millions)
 Global_Sales - Total worldwide sales.
 
 #### This was a practice Insight Data Science Challenge
+#### Exercise was completed in ~2 hours
